@@ -1,0 +1,5 @@
+Algorithm,Avg_Completion_ms,Throughput_tasks_sec,Avg_Response_ms
+FCFS,3450.14,0.862,3450.14
+SJF,4144.57,0.259,4144.57
+RR,3586.37,0.324,3586.37
+DDQN,135.76,9.173,135.77
